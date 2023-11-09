@@ -6,7 +6,7 @@ This repo contains custom build GPG node for [n8n](n8n.io). It includes the node
 
 ## More information
 
-Yo can get in touch with this developer [here](https://www.linkedin.com/in/tadiwanashedavidpfachi/)
+You can get in touch with this developer [here](https://www.linkedin.com/in/tadiwanashedavidpfachi/)
 ## License
 
 [MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
